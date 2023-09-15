@@ -7,7 +7,7 @@ description: >- # site description
   These diverse research experiences enpower me to cope with the exploding and heterogenous biomedical data, and integrate them to tackle the challenges
   in biomedicine.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
+timezone: America/New_York # set your timezone
 # image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
 # repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
@@ -29,9 +29,8 @@ author:
 
   username: username # general username
   github: elmonchan # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
   email: wc645@cornell.edu # email adress
+  linkedin: elmon-chen
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
