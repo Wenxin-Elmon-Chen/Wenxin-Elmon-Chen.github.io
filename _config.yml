@@ -74,6 +74,14 @@ jekyll_compose:
 # Homepage limit posts
 number_of_posts: 5
 
+# Publication Reference
+scholar:
+  style: elsevier-harvard
+  source: ./_bibliography
+  bibliography: "**/*.bib{,tex}"
+  sort_by: year
+  bibliography_template: "{{ reference | replace_first: 'Chen, W.-X.', '<b>Chen, Wenxin</b>' | replace_first: 'Chen, W.','<b>Chen, Wenxin</b>' }}"
+
 # Build settings
 # theme: klise
 sass:
