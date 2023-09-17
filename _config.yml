@@ -1,11 +1,7 @@
 # Site settings
 title: Wenxin Chen's Homepage # site title
 description: >- # site description
-  I am a first-year CS PhD student at Cornell University, holding Master's degree in Biomedical Informatics from Harvard Medical School. 
-  Currently co-advised by Fei Wang and Haiyuan Yu, my interest lies in multi-modal learning. Throughout my academic journey, I have pivoted
-  to different areas in biomedical informatics, including single cell transcriptomics, database and web development, epidemiology, and oncoimmunonology.
-  These diverse research experiences enpower me to cope with the exploding and heterogenous biomedical data, and integrate them to tackle the challenges
-  in biomedicine.
+  Wenxin Chen is writing at Cornell about his research, experience, and vision. He also documented what he learned in this homepage.
 lang: en-US # default lang
 timezone: America/New_York # set your timezone
 # image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
