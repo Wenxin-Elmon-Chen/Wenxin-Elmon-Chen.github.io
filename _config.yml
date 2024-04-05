@@ -13,15 +13,14 @@ author:
   name: 陈文鑫 Chen, Wenxin # author name
   bio: >- # tell to the world
 
-    <p>I am currently a first-year Computer Science PhD student at Cornell University, advised by Professors Fei Wang. My research is centered on ML for Healthcare, with a specific focus on harnessing
-    Electronic Health Records. I aim to integrating it with other data modalities, like genomics, to enhance clinnical decision-making process. <br><br>
+    <p>I am currently a first-year Computer Science PhD student at Cornell University, advised by Professors Fei Wang. My research is centered on ML for Healthcare, with a specific focus on harnessing Electronic Health Records (EHR). I aim to develop novel methods for federated clinical trail emulation, thereby enhancing the clinical decision-making process.<br><br>
 
     My academic trajectory has been both dynamic and interdisciplinary. I've delved into various facets of biomedical informatics, ranging from single-cell transcriptomics and database/web development to clinical informatics and oncoimmunology. 
     This multidisciplinary background equips me with the skills to navigate and integrate complex, heterogeneous biomedical data, thus positioning me to tackle some of the most pressing challenges in modern biomedicine.<br><br>
 
     Prior to joining Cornell, I earned my Master's degree in Biomedical Informatics from Harvard Medical School, where I had the privilege of working under the mentorship of Dr. Yevgeniy Semenov. 
-    I completed my undergraduate studies in Biotechnology at Sun Yat-sen University, where I was mentored by Dr. Lingling Zheng. Additionally, I have gained practical experience during my time at 
-    Massachusetts General Brigham.</p>
+    I completed my undergraduate studies in Biotechnology at Sun Yat-sen University, under the guidance of Dr. Lingling Zheng. Additionally, I have gained practical experience during my time at 
+    Massachusetts General Brigham, where I applied my insights on EHR data quality to development of data quality control tools for the ENACT Network.</p>
 
   username: username # general username
   github: elmonchan # github username
