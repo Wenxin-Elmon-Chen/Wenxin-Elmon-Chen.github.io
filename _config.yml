@@ -74,7 +74,7 @@ scholar:
   source: ./_bibliography
   bibliography: "**/*.bib{,tex}"
   sort_by: year
-  bibliography_template: "{{ reference | replace_first: 'Chen, W.-X.', '<b>Chen, Wenxin</b>' | replace_first: 'Chen, W.','<b>Chen, Wenxin</b>' }}"
+  bibliography_template: bibliography
 
 # Build settings
 # theme: klise
