@@ -20,7 +20,9 @@ author:
 
     Prior to joining Cornell, I earned my Master's degree in Biomedical Informatics from Harvard Medical School, where I had the privilege of working under the mentorship of Dr. Yevgeniy Semenov. 
     I completed my undergraduate studies in Biotechnology at Sun Yat-sen University, under the guidance of Dr. Lingling Zheng. Additionally, I have gained practical experience during my time at 
-    Massachusetts General Brigham, where I applied my insights on EHR data quality to development of data quality control tools for the ENACT Network.</p>
+    Massachusetts General Brigham, where I applied my insights on EHR data quality to development of data quality control tools for the ENACT Network.<br><br>
+    
+    (I used to go by <b>Elmon</b>, as shown by my Github username. To avoid confusion in publications, I now go by <b>Wenxin</b>.)</p>
 
   username: username # general username
   github: elmonchan # github username
