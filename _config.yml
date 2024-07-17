@@ -76,6 +76,7 @@ scholar:
   source: ./_bibliography
   bibliography: "**/*.bib{,tex}"
   sort_by: year
+  order: descending
   bibliography_template: bibliography
 
 # Build settings
