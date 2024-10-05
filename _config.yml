@@ -25,13 +25,13 @@ author:
     (I used to go by <b>Elmon</b>, as shown by my Github username. To avoid confusion in publications, I now go by <b>Wenxin</b>.)</p>
 
   username: username # general username
-  github: elmonchan # github username
+  github: wenxin-elmon-chen # github username
   email: wc645@cornell.edu # email adress
-  linkedin: elmon-chen
+  linkedin: wenxin-elmon-chen
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://elmonchan.github.io/" #
+url: "https://wenxin-elmon-chen.github.io/" #
 baseurl:
 permalink: /:title/
 google_analytics: G-E90XQ9YHSJ# leave it blank if not wish
